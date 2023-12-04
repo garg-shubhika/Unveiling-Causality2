@@ -36,7 +36,7 @@ Characters other than those specified above are removed from the text.
 5. **Save to CSV**: Save the modified DataFrame to a new CSV file.
 
 
-# Cleaned Data Filtering and Text Extraction
+## Cleaned Data Filtering and Text Extraction
 
 This script demonstrates the process of filtering a cleaned DataFrame and extracting relevant information to create a text file compatible with the original EDA code.
 
