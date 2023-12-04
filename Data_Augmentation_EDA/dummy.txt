@@ -1,6 +1,0 @@
-pip install -U nltk
-python
->>> import nltk; nltk.download('wordnet')
-
-EDA:
-input files in the format label\tsentence
