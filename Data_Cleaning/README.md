@@ -1,4 +1,6 @@
-# Text Cleaning using remove_backslash Function
+# Code Overview
+
+## Text Cleaning using remove_backslash Function
 
 This script demonstrates a simple text cleaning process using the `remove_backslash` function. The function is designed to remove specific patterns and retain certain characters from text data.
 
@@ -32,3 +34,22 @@ Characters other than those specified above are removed from the text.
 4. **Print Original and Modified DataFrames**: Display the original and modified DataFrames, showing the 'causal_text_w_pairs' and 'cleaned_text' columns.
 
 5. **Save to CSV**: Save the modified DataFrame to a new CSV file.
+
+
+# Cleaned Data Filtering and Text Extraction
+
+This script demonstrates the process of filtering a cleaned DataFrame and extracting relevant information to create a text file compatible with the original EDA code.
+
+## Process Overview
+
+The script performs the following operations:
+
+1. **Read CSV File**: Reads the cleaned CSV file into a pandas DataFrame.
+
+2. **Filter Rows**: Excludes rows where the 'num_rs' column is 0.
+
+3. **Specify Output Text File**: Specifies the output text file path for saving the cleaned text and 'num_rs' columns.
+
+4. **Write to Text File**: Writes the cleaned text and 'num_rs' columns to the specified text file.
+
+5. **Print Confirmation**: Displays a message indicating the successful creation of the text file.
