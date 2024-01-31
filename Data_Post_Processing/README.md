@@ -20,3 +20,5 @@
 - ['the memoranda break to headman parson harish rawat , on sat , interpret <ARG0>the i f stone crusher solve in the area</ARG0> <SIG0>will  be the get of</SIG0> <ARG1>dust and wellness problems</ARG1> which will   and the junk from the i f stone crusher would ruin department of agriculture   be the get of <ARG0>dust and wellness problems</ARG0> which <SIG0>will   and the junk from the i f stone crusher would ruin department of agriculture   be the get of junk and wellness trouble which will   and <ARG0>the junk from the i f stone crushers</ARG0> <ARG1><SIG0>would destroy</SIG0> agriculture</ARG1>  ']
 - ['on th , subgenus chen daoxiang , the headspring of the taiwanese united states army fort in hong kong , enunciate <ARG1>the military machine was ascertain to protect  the  ']
 
+## num_rs
+- The file has only num_rs=1
